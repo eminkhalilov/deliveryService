@@ -1,0 +1,8 @@
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.AssemblyInfoInputs.cache
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.AssemblyInfo.cs
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.deps.json
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.dll
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.pdb
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.csprojAssemblyReference.cache
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.dll
+C:\Projects\Farfetch\Albelli.Ecommerce.Services\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Services.pdb

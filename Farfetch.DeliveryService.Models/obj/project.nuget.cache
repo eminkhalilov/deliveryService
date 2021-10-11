@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQDzNvtmPzXBfEawCOcqVHF1ouigVADR8KjH7iyp6fAa5jTABcsuunDXpnMADUZhKEOPtTaGa4Lq7JnkN163KA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\deliveryservice\\Farfetch.DeliveryService.Models\\Farfetch.DeliveryService.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emin\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emin\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emin\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Emin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.AssemblyInfoInputs.cache
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.AssemblyInfo.cs
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.deps.json
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.runtimeconfig.json
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.runtimeconfig.dev.json
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.dll
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\bin\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.pdb
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.csprojAssemblyReference.cache
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.dll
+C:\Projects\Farfetch\Albelli.Ecommerce.Migrator\obj\Debug\netcoreapp2.2\Farfetch.Ecommerce.Migrator.pdb
